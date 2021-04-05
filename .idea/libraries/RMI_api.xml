@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RMI-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RMI-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
